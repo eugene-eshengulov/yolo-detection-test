@@ -1,0 +1,1 @@
+web: python webstreaming.py --ip 0.0.0.0 --port 80
